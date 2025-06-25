@@ -2,7 +2,7 @@
 
 Frontend mock-up responsive website for a virtual food delivery company that uses AI to make custom diets
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/qr8M1my" data-context="false" ><a href="//imgur.com/a/qr8M1my"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Alt text](https://i.imgur.com/eNrILif.png)
 
 **Link to project:** (add github pages or netlify)
 
