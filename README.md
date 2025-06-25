@@ -4,9 +4,7 @@ Frontend mock-up responsive website for a virtual food delivery company that use
 
 ![Alt text](https://i.imgur.com/eNrILif.png)
 
-**Link to project:** (add github pages or netlify)
-
-![alt tag](http://placecorgi.com/1200/650)
+https://alm0r.github.io/Omnifood/
 
 ## How It's Made:
 
@@ -14,15 +12,15 @@ Built using basic HTML, CSS and JavaScript with the idea to be used as a templat
 
 Altought its a simple single static page, it contains most of the commponents and sections that modern and complex websites use, making very easy to recycle and reuse them for future projects
 
-<-- HEADER -->
-<-- HERO -->
-<-- FEATURED IN -->
-<-- HOW IT WORKS -->
-<-- SECTIONS -->
-<-- TESTIMONIALS -->
-<-- PRICING -->
-<-- CALL TO ACTION -->
-<-- FOOTER -->
+- HEADER -
+- HERO -
+- FEATURED IN -
+- HOW IT WORKS -
+- SECTIONS -
+- TESTIMONIALS -
+- PRICING -
+- CALL TO ACTION -
+- FOOTER --
 
 ## Optimizations
 
