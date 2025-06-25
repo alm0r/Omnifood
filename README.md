@@ -1,6 +1,6 @@
 # Omnifood Project
 
-Frontend mock-up responsive website for a virtual food delivery company that uses AI to make custom diets
+Frontend mock-up of a responsive website for a virtual food delivery company that uses AI to make custom diets
 
 ![Alt text](https://i.imgur.com/eNrILif.png)
 
@@ -12,15 +12,15 @@ Built using basic HTML, CSS and JavaScript with the idea to be used as a templat
 
 Altought its a simple single static page, it contains most of the commponents and sections that modern and complex websites use, making very easy to recycle and reuse them for future projects
 
-- HEADER -
-- HERO -
-- FEATURED IN -
-- HOW IT WORKS -
-- SECTIONS -
-- TESTIMONIALS -
-- PRICING -
-- CALL TO ACTION -
-- FOOTER --
+- HEADER
+- HERO
+- FEATURED IN
+- HOW IT WORKS
+- SECTIONS
+- TESTIMONIALS
+- PRICING
+- CALL TO ACTION
+- FOOTER
 
 ## Optimizations
 
